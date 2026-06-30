@@ -1,5 +1,5 @@
 // API Base URL - ใช้ Relative Path เพื่อให้ทำงานได้อัตโนมัติไม่ว่าโฟลเดอร์ชื่ออะไร
-const API_BASE_URL = '../smartfarm-api/api'; 
+const API_BASE_URL = 'smartfarm-api/api'; 
 
 // DOM Elements
 const sensorContainer = document.getElementById('sensor-container');
